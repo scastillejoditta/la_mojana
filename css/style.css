@@ -958,7 +958,7 @@ small {
 }
 
 .liston {
-  background-image: url("../assets/images/separador.PNG");
+  background-image: url("../assets/images/separador.png");
 }
 
 .pieza1 {
@@ -1021,25 +1021,8 @@ small {
   background-image: url("../assets/images/pieza15.jpg");
 }
 
-.bntierras {
-  background: url("../assets/images/banner_tierras.jpg") no-repeat center;
-  background-size: contain;
-}
-
-.bngaleria {
-  background: url("../assets/images/banner_galeria.webp") no-repeat center;
-}
-
-.bnvenezuela {
-  background: url("../assets/images/banner_venezuela.jpg") no-repeat center;
-}
-
-.bncolombia {
-  background: url("../assets/images/banner_colombia.jpg") no-repeat center;
-}
-
 .moneda {
-  background-image: url("../assets/images/coin_rosa.PNG");
+  background-image: url("../assets/images/coin_rosa.png");
 }
 
 /*# sourceMappingURL=style.css.map */
